@@ -21,8 +21,9 @@ There where about seven key metrics that where tabulated within the report.  It 
 - The overall percentage of students passing both standardized tests fell slightly when excluding the test results in question from 65% passing to 64.9% passing without the THC ninth grade test results included in the average.
 
 Below is an overview snapshot of the two analyses the first one includes THS ninth grade test results and the second excludes THS ninth grade test results:
-![School_District_Analysis](Resources/ district_summary_df_with_THS9thgrade.png)
-![ School_District_Analysis](Resources/ district_summary_df_without_THS9thgrade.png)
+
+![School_District_Analysis](Resources/district_summary_df_with_THS9thgrade.png)
+![ School_District_Analysis](Resources/district_summary_df_without_THS9thgrade.png)
 
 ##Summary
 
