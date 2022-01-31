@@ -7,7 +7,7 @@ Analyze test results from a city school district. The code provides reports that
 ##Resources	
 
 -Data Source: schools_complete.csv, students_complete.csv
--Software: Python 3.7.11, IPython 7.29.0, Jupyter Notebook 6.4.6, Anaconda
+-Software: Python 3.7.11, IPython 7.29.0, Jupyter Notebook 6.4.6, Anaconda 4.11.0
 
 ##Results
 
@@ -22,8 +22,13 @@ There where about seven key metrics that where tabulated within the report.  It 
 
 Below is an overview snapshot of the two analyses the first one includes THS ninth grade test results and the second excludes THS ninth grade test results:
 
-![School_District_Analysis](Resources/district_summary_df_with_THS9thgrade.png)
-![ School_District_Analysis](Resources/district_summary_df_without_THS9thgrade.png)
+With THS ninth-grade test results:
+
+![School_District_Analysis](Resources/district_summary_df_with_THS9thgrade.PNG)
+
+Without THS ninth-grade test results:
+
+![ School_District_Analysis](Resources/district_summary_df_without_THS9thgrade.PNG)
 
 ##Summary
 
